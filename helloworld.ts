@@ -6,3 +6,4 @@ console.log(witaj);
 //
 // ósemka teraz
 // następne
+//Teraz już na bank pójdzie
