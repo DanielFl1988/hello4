@@ -5,3 +5,4 @@ console.log(witaj);
 // 5 żeby było na pieć
 //
 // ósemka teraz
+// następne
