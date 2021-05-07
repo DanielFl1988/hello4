@@ -4,3 +4,4 @@ console.log(a);
 //nowy komcio
 //kolejny sprawdzam
 //szósty wiersz
+//siódmy wiersz
