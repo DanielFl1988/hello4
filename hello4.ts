@@ -3,3 +3,4 @@ console.log(a);
 //koment
 //nowy komcio
 //kolejny sprawdzam
+//szósty wiersz
