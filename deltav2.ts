@@ -19,5 +19,3 @@ if (delta > 0) {
     console.log(` miejsca zerowe to:`, Math.round(x1), Math.round(x2));
 }
 }
-//else var delta: number = (wspolczynniki[1]*wspolczynniki[1]-4*wspolczynniki[0]*wspolczynniki[2]);
-//console.log(`delta wynosi: `, delta);
