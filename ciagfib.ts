@@ -1,4 +1,4 @@
-let liczbaDo: number = 12;
+let liczbaDo: number = 12;//tutaj wpisujesz do ilu liczb ma byc ciag
 let liczba0: number = 0;
 let liczba1: number = 1;
 
