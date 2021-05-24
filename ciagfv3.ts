@@ -2,7 +2,6 @@ let liczbaStartowa: number = 4;// tutaj wpisujesz ile chcesz liczba z ciągu
 let liczba1: number = 1;
 let liczba2: number = 0;
 let liczba3: number;
-let Liczby = [];
 if (liczbaStartowa === 0){
     console.log(`zero`);
 }
