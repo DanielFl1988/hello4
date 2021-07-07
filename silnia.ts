@@ -1,7 +1,7 @@
 //let liczba: number = 2;
 let silnia: number = 1;
-let liczba2: number = 8;//tutaj wpisuje z jakiej liczby chce silnie
-const liczba1y: number = liczba2;
+let liczba2x: number = 8;//tutaj wpisuje z jakiej liczby chce silnie
+const liczba1y: number = liczba2x;
 //if (liczba === 0 || liczba === 1) {
 //   console.log(`jeden`);
 //}
@@ -15,5 +15,5 @@ else {
         silnia *= liczba2x
         liczba2x = liczba2x - 1;
     }
-    console.log(`silnia z`, liczba1, `wynosi`, silnia);
+    console.log(`silnia z`, liczba1y, `wynosi`, silnia);
 }
