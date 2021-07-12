@@ -1,5 +1,18 @@
-let statusId: number = 300;
-switch (statusId) {
+//let komentarz: string = Success;
+
+enum komentarz {
+    Success = 200,
+    Accepted = 202,
+    Unauthorized = 401,
+    Forbidden = 403,
+    Not_found = 404,
+    Server_Error = 500,
+}
+
+function respond(message: komentarz): void {}
+respond
+
+switch (komentarz) {
     case 200:
         console.log('Success');
         break;
